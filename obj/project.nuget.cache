@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "J+DUi6NmgznvpQeJBKXiRqn9Jn9cr+mVnVIeDv6NAOnjYJmlZJJ7OPr0x+dWW+dThnrCGWeenfx9cIAT4ynVTQ==",
+  "dgSpecHash": "3WIMepGYdsXRh+NmcAHhFCZfdC8M5bVKiCsSaDuSOQQR7gR0j61Y756U0hhGpylACEGc711/kgIPWA+fdfZW4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\sxk2502\\Source\\Repos\\DIWithSerilogAndSettings\\ConsoleUI.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\sxk2502\\.nuget\\packages\\serilog.extensions.logging\\7.0.0\\serilog.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\serilog.settings.configuration\\7.0.0\\serilog.settings.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\sxk2502\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.1\\system.diagnostics.diagnosticsource.7.0.1.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",

@@ -1,0 +1,21 @@
+2023-05-20 16:02:59.182 +02:00 [INF] Applicaiton Starting
+2023-05-20 16:02:59.572 +02:00 [INF] Run number 0
+2023-05-20 16:02:59.584 +02:00 [INF] Run number 0
+2023-05-20 16:02:59.591 +02:00 [INF] Run number 1
+2023-05-20 16:02:59.592 +02:00 [INF] Run number 1
+2023-05-20 16:02:59.594 +02:00 [INF] Run number 2
+2023-05-20 16:02:59.595 +02:00 [INF] Run number 2
+2023-05-20 16:02:59.597 +02:00 [INF] Run number 3
+2023-05-20 16:02:59.600 +02:00 [INF] Run number 3
+2023-05-20 16:02:59.602 +02:00 [INF] Run number 4
+2023-05-20 16:02:59.603 +02:00 [INF] Run number 4
+2023-05-20 16:02:59.605 +02:00 [INF] WassupLoopTimes 0 
+2023-05-20 16:02:59.607 +02:00 [INF] WassupLoopTimes 1 
+2023-05-20 16:02:59.609 +02:00 [INF] WassupLoopTimes 2 
+2023-05-20 16:02:59.611 +02:00 [INF] WassupLoopTimes 3 
+2023-05-20 16:02:59.612 +02:00 [INF] WassupLoopTimes 4 
+2023-05-20 16:02:59.616 +02:00 [INF] WassupLoopTimes 5 
+2023-05-20 16:02:59.618 +02:00 [INF] WassupLoopTimes 6 
+2023-05-20 16:02:59.620 +02:00 [INF] WassupLoopTimes 7 
+2023-05-20 16:02:59.621 +02:00 [INF] WassupLoopTimes 8 
+2023-05-20 16:02:59.623 +02:00 [INF] WassupLoopTimes 9 

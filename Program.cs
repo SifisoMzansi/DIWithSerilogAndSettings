@@ -17,7 +17,7 @@ using Serilog.Extensions.Hosting;
             .WriteTo.Console()
             .CreateLogger();
 
-
+    
         Log.Logger.Information("Applicaiton Starting");
         var host = Host.CreateDefaultBuilder()
             .ConfigureServices((context, services) =>
